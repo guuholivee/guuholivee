@@ -1,3 +1,4 @@
+# Gustavo Batista
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c1b2d9&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile"Typing SVG">
@@ -13,19 +14,24 @@ Busco uma primeira oportunidade pois estou constantemente atualizando meus conhe
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
-<h3 align="left">My Stack ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
- 
+ Conecte-se comigo
+
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:guoliveira170497@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/gustavo-batista-913869294/)
+
+### Habilidades
+
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
+![NodeJs](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC) 
 </div>
 
 <div style="text-align: center;" align="center">
