@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -18,11 +18,20 @@ jobs:
           outputs: |
             ./dist/github-contribution-grid-snake.svg
 
-      - name: Commit Snake
+      - name: Commit the snake animation
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "generate snake animation"
-          add: "dist/github-contribution-grid-snake.svg"
+          message: "Generated snake animation"
+          add: "dist/*"
 
+      - name: Push to 'output' branch
+        run: |
+          git fetch
+          git switch --orphan output
+          git rm -rf .
+          cp -r dist/* .
+          git add .
+          git commit -m "Update snake"
+          git push -f origin output
