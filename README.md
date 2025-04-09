@@ -24,9 +24,10 @@
 </div>
 
 ---
+### 🐍 Snake comendo meus commits
 
-### 🐍 Snake 
 ![snake gif](https://raw.githubusercontent.com/guuholivee/guuholivee/output/github-contribution-grid-snake.svg)
+
 
 
 ---
