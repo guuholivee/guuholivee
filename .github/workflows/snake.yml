@@ -10,11 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate the snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: guuholivee
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+      uses: Platane/snk@v3
+      with:
+    github_user_name: guuholivee
+    outputs: |
+      dist/github-contribution-grid-snake.svg
+    color_snake: "#00FF99" # verde neon
+    color_dots: "#444444,#393939,#2e2e2e,#00FFC3,#00AA88"
 
       - name: Deploy to GitHub Pages (output branch)
         uses: crazy-max/ghaction-github-pages@v4
