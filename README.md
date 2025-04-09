@@ -1,7 +1,8 @@
-<h1 align="center">Olá, eu sou o Gustavo 👋</h1>
+<h1 align="center">Olá, eu sou o Gustavo Batista 👋</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, atualmente estudando Engenharia de Software e criando soluções com React, Node.js e PostgreSQL.
+  Desenvolvedor em formação e apaixonado por tecnologia!<br />
+  Estudante de Engenharia de Software e criador de projetos com <strong>React, Node.js e PostgreSQL</strong>.
 </p>
 
 ---
@@ -15,31 +16,28 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guuholivee&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuholivee&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guuholivee&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuholivee&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-### 🐍 Snake commit eating graph
+### 🐍 Snake comendo meus commits
 
-![snake gif](https://raw.githubusercontent.com/guuholivee/guuholivee/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/guuholivee/guuholivee/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Onde me encontrar
+### 📫 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-batista-913869294/" target="_blank">
+  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/guuholivee" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://seuportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
   </a>
 </p>
